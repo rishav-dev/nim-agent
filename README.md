@@ -37,5 +37,3 @@ from custom_agent import CustomAgent
 game = NimGame(0, [3, 5, 7])
 print(CustomAgent().takeAction(game))   # (amount, pile_index)
 ```
-
-Built for a game-playing course at UMass Amherst.
